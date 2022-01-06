@@ -65,3 +65,40 @@ Thisis*Italics*.
 use 3 asterisks to make a word both **bold** and *italic*
 
 ***This is both bold and Italic***
+
+### Blockquotes
+
+> this is a block quote
+
+put in a > sign in the beginning to create a block quote
+
+>For multiple paragraphs, put the > sign at the start of each line.
+>
+>This will create a bigger block quote
+>
+>to fit everything.
+
+>Block quotes can also 
+>>be nested by adding another > on
+>
+> the paragraph to be nested
+
+### Ordered Lists
+Lists can be created by putting a number followed by a fullstop.  The number can be any number but the first list item should start with 1. and following items will increment by 1.
+
+1.  First list item
+2.  Second list item
+3.  Third list item
+
+is the same as:
+
+1.  First list item
+99.  Second list item
+0.  Third list item
+
+Starting with 3, the next items become 4 and 5 for example:
+
+3.  First list item
+2.  Second list item
+3.  Third list item
+

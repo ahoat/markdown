@@ -102,3 +102,12 @@ Starting with 3, the next items become 4 and 5 for example:
 2.  Second list item
 3.  Third list item
 
+### unordered lists
+use a - or * or + before each item to create an unordered list
+
+- List item
+- List item
+*  List item
++ List item
+
+It's generally bad practice to use different symbols in the same list so choose one and stick with it.
